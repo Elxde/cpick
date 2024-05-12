@@ -8,4 +8,4 @@ Very simple windows.h command line color picker
 - Colors are returned in the form of hex rgb values
 - For extra quality of life I recommend putting the exe in your system environmental PATH variable
 
-Only made this cuz I don't like windows powertools + browser color picker extensions take up space and only work for the browser
+Only made this cuz I don't like windows powertools + the browser color picker extensions only work for the browser
